@@ -1,0 +1,13 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="Canais | SporTV",SporTV HD
+https://cr7v.short.gy/manoiTVOP1/sptv1/75991634025/index.m3u8
+
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="Canais | SporTV",SporTV HD²
+https://cr7v.short.gy/manoiTVOP3/sptvxtra2/75991634025/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPN",ESPN HD
+https://cr7v.short.gy/live25/spn/Index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7xHoOju.png" group-title="ao vivo | FUTEBOL",ManoFUT 4
+https://cr7v.short.gy/mano4/testchamaWhats75991634025.m3u8
